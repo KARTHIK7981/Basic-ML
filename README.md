@@ -1,9 +1,9 @@
 # Basic-ML
 
-*This is Python Programs repository
+* This is Python Programs repository
 
-*Name : V.Saikarthik
+* Name : V.Saikarthik
 
-*Branch : AI&DS
+* Branch : AI&DS
 
-*Reg No : 20PA1A5452
+* Reg No : 20PA1A5452
